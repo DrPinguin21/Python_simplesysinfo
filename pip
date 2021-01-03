@@ -1,0 +1,3 @@
+# Python_simplesysinfo
+pip install GPUtil
+pip install psutil
