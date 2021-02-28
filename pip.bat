@@ -1,3 +1,3 @@
 # Python_simplesysinfo
-pip install GPUtil
+pip install GPUti
 pip install psutil
